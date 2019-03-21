@@ -1,7 +1,22 @@
 # One-On-Ones
 Resources for one-on-one meetings
 
-## General One-on-one resources
+## Table of Contents:
+- [Objective](#objective)
+- [My Reccomendations](#my-recommendations)
+- General one-on-one resources
+- For Managers
+- For Makers
+- One-on-one question lists
+- A few books
+
+## Objective
+TBD
+
+## My Recommendations
+TBD
+
+## General one-on-one resources
 - [Why your one on one needs a meeting agenda and how to make them great](https://getlighthouse.com/blog/one-on-one-meeting-agenda/)
 - [The importance of one-on-ones](https://css-tricks.com/the-importance-of-one-on-ones/)
 - Ben Horowitz on [One-on-ones](https://a16z.com/2012/08/30/one-on-one/)
