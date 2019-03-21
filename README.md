@@ -4,11 +4,11 @@ Resources for one-on-one meetings
 ## Table of Contents:
 - [Objective](#objective)
 - [My Reccomendations](#my-recommendations)
-- General one-on-one resources
-- For Managers
-- For Makers
-- One-on-one question lists
-- A few books
+- [General one-on-one resources](#general-one-on-one-resources)
+- [For Managers](#for-managers)
+- [For Makers](#for-makers)
+- [One-on-one Questions](#one-on-one-questions)
+- [A few books](#a-few-books)
 
 ## Objective
 TBD
@@ -44,7 +44,7 @@ TBD
 - [101 one-on-one questions](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
 - [51 Questions to Ask in One on Ones with a Manager](https://getlighthouse.com/blog/questions-ask-one-on-ones-manager/)
 
-## Books that touch on one-on-ones
+## A few books
 - High Output Management
 - The Hard Thing About Hard Things
 - Radical Candor
