@@ -11,11 +11,11 @@ Articles, books, posts and general resources for one-on-one meetings
 - [A few books](#a-few-books)
 
 ## Objective
-Why did I make this? To help managers (and makers) conduct better one-on-ones that will build healthy work places, motivate people and teams, and enable organizations to create amazing $%!#.  Wait all that from some one-on-ones? Yeah! All that. 
+Why did I make this? To help managers (and makers) conduct better one-on-ones that will intern facilitate healthy work places, motivate people and teams, and enable organizations to create amazing $%!#.  Wait all that from some one-on-ones? Yeah! All that. 
 
 > Conducting effective one-on-ones is the single most important investment you can make in your team. Full stop. 
 
-During management training, conversations with mamangers, and discussions with direct reports, I get a lot of questions on one-on-ones. How should I run them? How can I come prepared? What should be on my agenda? How often should we have them? I find myself sharing numerous resources often. 
+During management training, conversations with managers, and discussions with direct reports, I get a lot of questions on one-on-ones. How should I run them? How can I come prepared? What should be on my agenda? How often should we have them? I find myself sharing numerous resources often. 
 
 To help facilitate productive one-on-one meetings, I have put together this list of resources. My top recommendations outlines the essential links to begin your journey. Think of this as a one-on-one crash course, the one-on-one 101 if you will. The other sections are more specific (e.g. for Managers, Makers, lists of questions, etc.) and are geared to specific roles or situations. 
 
