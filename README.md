@@ -1,5 +1,5 @@
-# One-On-Ones
-Resources for one-on-one meetings
+# One-On-One Resources
+Articles, books, posts and general resources for one-on-one meetings
 
 ## Table of Contents:
 - [Objective](#objective)
