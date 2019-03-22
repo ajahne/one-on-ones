@@ -11,15 +11,32 @@ Resources for one-on-one meetings
 - [A few books](#a-few-books)
 
 ## Objective
-TBD
+Why did I make this? To help managers (and makers) conduct better one-on-ones that will build healthy work places, motivate people and teams, and enable organizations to create amazing $%!#.  Wait all that from some one-on-ones? Yeah! All that. 
 
-## My Recommendations
-TBD
+> Conducting effective one-on-ones is the single most important investment you can make in your team. Full stop. 
+
+During management training, conversations with mamangers, and discussions with direct reports, I get a lot of questions on one-on-ones. How should I run them? How can I come prepared? What should be on my agenda? How often should we have them? I find myself sharing numerous resources often. 
+
+To help facilitate productive one-on-one meetings, I have put together this list of resources. My top recommendations outlines the essential links to begin your journey. Think of this as a one-on-one crash course, the one-on-one 101 if you will. The other sections are more specific (e.g. for Managers, Makers, lists of questions, etc.) and are geared to specific roles or situations. 
+
+This guide will grow over time. 
+
+A note: You cannot become a good manager by reading a couple links and a few books! It takes experience, its takes training, frankly it takes failure and learning. There is no panacea, wonder drug, or magic elixir that will make you a good leader.  It takes work! _(rant done)_
+
+Let's roll!
+
+## My Recommendations  
+_in process_
+- [Questions for our First 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
+- One-on-one meeting [Dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [Don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
+- [7 ways to prepare for an effective one-on-one meeting with your manager](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
+- [How to have great one-on-ones](https://getlighthouse.com/blog/high-output-management/)
+- [One-on-ones](https://a16z.com/2012/08/30/one-on-one/)
 
 ## General one-on-one resources
 - [Why your one on one needs a meeting agenda and how to make them great](https://getlighthouse.com/blog/one-on-one-meeting-agenda/)
 - [The importance of one-on-ones](https://css-tricks.com/the-importance-of-one-on-ones/)
-- Ben Horowitz on [One-on-ones](https://a16z.com/2012/08/30/one-on-one/)
+- Ben Horowitz on [One-on-ones](https://a16z.com/2012/08/30/one-on-one/) and [A good place to work](https://a16z.com/2012/08/18/a-good-place-to-work/)
 - [Meetings That Work for Both Managers and Makers](https://hbr.org/2016/07/meetings-that-work-for-both-managers-and-makers)
 - [5 steps to a great 1:1 meeting](https://www.inc.com/joel-trammell/5-steps-to-great-11-meetings.html)
 - [A Brief Guide To Better 1:1s for Makers and Managers](https://www.helpscout.com/blog/one-on-ones/)
