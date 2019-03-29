@@ -90,7 +90,7 @@ Table of Contents:
   - On creating agendas 
     - link 1
     - link 2
-  - On not taking, todos, and following up
+  - On note taking, todos, and following up
     - link 1
     - link 2
   - On Length and frequency of one-on-ones
