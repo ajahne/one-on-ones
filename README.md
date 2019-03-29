@@ -70,3 +70,39 @@ _in process_
 - The Hard Thing About Hard Things
 - Radical Candor
 - The Manager's Path
+
+
+## A Potential Layout for this guide
+New Title: **"A Curated One-on-one meeting resources"**  
+Table of Contents:
+- [Objective aka Why I created this](#objective)
+- [My Reccomendations](#my-recommendations)
+  _my reasons for each..._
+  - link 1
+  - link 2
+  - link 3
+  - link 4
+  - link 5  
+- Specific Topics _(max of 3 links per section)_:
+  - Purpose of meeting
+    - link 1
+    - link 2
+  - On creating agendas 
+    - link 1
+    - link 2
+  - On not taking, todos, and following up
+    - link 1
+    - link 2
+  - On Length and frequency of one-on-ones
+    - link 1
+    - link 2  
+  - Preparing for One-on-ones as a Manager
+    - link 1
+    - link 2  
+  - Preparing for One-on-ones as a Maker
+    - link 1
+    - link 2  
+  - One-on-one Questions
+    - link 1
+    - link 2
+  - The Depot (additional links that you may find helpful)
