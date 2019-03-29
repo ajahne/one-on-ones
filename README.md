@@ -73,7 +73,7 @@ _in process_
 
 
 ## A Potential Layout for this guide
-New Title: **"A Curated One-on-one meeting resources"**  
+New Title: **"A Curated List of One-On-One Meeting Resources"**  
 Table of Contents:
 - [Objective aka Why I created this](#objective)
 - [My Reccomendations](#my-recommendations)
