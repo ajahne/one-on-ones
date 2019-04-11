@@ -11,7 +11,7 @@ Articles, books, posts and general resources for one-on-one meetings
 - [A few books](#a-few-books)
 
 ## Objective
-Why did I make this? To help managers (and makers) conduct better one-on-ones that will intern facilitate healthy work places, motivate people and teams, and enable organizations to create amazing $%!#.  Wait all that from some one-on-ones? Yeah! All that. 
+Why did I make this? To help managers (and makers) conduct better one-on-ones that will facilitate healthy work places, motivate people and teams, and enable organizations to create amazing $%!#.  Wait all that from some one-on-ones? Yeah! All that. 
 
 > Conducting effective one-on-ones is the single most important investment you can make in your team. Full stop. 
 
