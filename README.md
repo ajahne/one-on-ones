@@ -66,10 +66,10 @@ _in process_
 - [The 9 questions that uncover the most surprising feedback from employees ](https://knowyourteam.com/blog/2017/08/28/the-9-questions-that-uncover-the-most-surprising-feedback-from-employees/)
 
 ## A few books
-- High Output Management
-- The Hard Thing About Hard Things
-- Radical Candor
-- The Manager's Path
+- [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+- [Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
 
 
 ## A Potential Layout for this guide
