@@ -41,6 +41,7 @@ _in process_
 - [5 steps to a great 1:1 meeting](https://www.inc.com/joel-trammell/5-steps-to-great-11-meetings.html)
 - [A Brief Guide To Better 1:1s for Makers and Managers](https://www.helpscout.com/blog/one-on-ones/)
 - [How to have an honest one-on-one meeting with an employee](https://knowyourteam.com/blog/2017/12/01/how-to-have-an-honest-one-on-one-meeting-with-an-employee/)
+- [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 
 ## For Managers
 - One-on-one meeting [Dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [Don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
