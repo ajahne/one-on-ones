@@ -26,7 +26,7 @@ A note: You cannot become a good manager by reading a couple links and a few boo
 Let's roll!
 
 ## My Recommendations  
-_in process_
+_aka "getting started"_
 - [Questions for our First 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
 - One-on-one meeting [Dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [Don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
 - [7 ways to prepare for an effective one-on-one meeting with your manager](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
