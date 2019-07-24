@@ -1,5 +1,5 @@
 # One-On-One Resources
-Articles, books, posts and general resources for one-on-one meetings
+A curated list of articles, books, posts, and general resources for one-on-one meetings.
 
 ## Table of Contents:
 - [Objective](#objective)
@@ -72,44 +72,3 @@ _in process_
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 - [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 - [Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
-
-
-## A Potential Layout for this guide
-New Title: **"A Curated List of One-On-One Meeting Resources"**  
-Table of Contents:
-- [Objective aka Why I created this](#objective)
-- [My Reccomendations](#my-recommendations)
-  _my reasons for each..._
-  - link 1
-  - link 2
-  - link 3
-  - link 4
-  - link 5  
-- Specific Topics _(max of 3 links per section)_:
-  - Purpose of meeting
-    - link 1
-    - link 2
-  - On creating agendas 
-    - link 1
-    - link 2
-  - On note taking, todos, and following up
-    - link 1
-    - link 2
-  - On Length and frequency of one-on-ones
-    - link 1
-    - link 2  
-  - Preparing for One-on-ones as a Manager
-    - link 1
-    - link 2  
-  - Preparing for One-on-ones as a Maker
-    - link 1
-    - link 2  
-  - One-on-one Questions
-    - link 1
-    - link 2
-  - The Depot (additional links that you may find helpful)
-    - link 1
-    - link 2
-    - link 3
-    - link 4
-    - link 5    
