@@ -61,7 +61,7 @@ _aka "getting started"_
 - [How To Manage Your Boss -- Ten Dos And Don'ts](https://www.forbes.com/sites/lizryan/2018/01/28/how-to-manage-your-boss-ten-dos-and-donts)
 - [Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings/)
 - [8 Questions You Should Be Asking Your Boss](https://www.themuse.com/advice/8-questions-you-should-be-asking-your-boss)
--[How to give feedback to your boss](https://m.signalvnoise.com/how-to-give-feedback-to-your-boss/#.41mvel1hf)
+- [How to give feedback to your boss](https://m.signalvnoise.com/how-to-give-feedback-to-your-boss/#.41mvel1hf)
 
 ## One-on-one Questions
 - [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
