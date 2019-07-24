@@ -43,6 +43,7 @@ _in process_
 - [How to have an honest one-on-one meeting with an employee](https://knowyourteam.com/blog/2017/12/01/how-to-have-an-honest-one-on-one-meeting-with-an-employee/)
 - [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 - [Spotify Labs: A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/)
+- [Awesome Leading and Managing: One-on-Ones](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 
 ## For Managers
 - One-on-one meeting [Dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [Don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
