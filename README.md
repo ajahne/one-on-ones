@@ -55,6 +55,7 @@ _aka "getting started"_
 - [Six tips to rock your one-on-ones](https://knowyourteam.com/blog/2018/01/16/six-tips-to-rock-your-one-on-ones/)
 - [Advice for one-on-one meetings](https://www.15five.com/blog/advice-for-one-on-one-meetings/)
 - [How to have effective 1:1s](https://www.radicalcandor.com/blog/effective-one-on-ones/)
+- [An example one-on-one meeting agenda](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/one-on-one-meeting-agenda.md)
 
 ## For Makers
 - [7 ways to prepare for an effective one-on-one meeting with your manager](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
