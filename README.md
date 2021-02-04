@@ -44,6 +44,7 @@ _aka "getting started"_
 - [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 - [Spotify Labs: A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/)
 - [Awesome Leading and Managing: One-on-Ones](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
+- [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 
 ## For Managers
 - One-on-one meeting [Dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [Don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
