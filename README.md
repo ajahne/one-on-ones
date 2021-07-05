@@ -71,6 +71,8 @@ _aka "getting started"_
 - [101 one-on-one questions](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
 - [51 Questions to Ask in One on Ones with a Manager](https://getlighthouse.com/blog/questions-ask-one-on-ones-manager/)
 - [The 9 questions that uncover the most surprising feedback from employees ](https://knowyourteam.com/blog/2017/08/28/the-9-questions-that-uncover-the-most-surprising-feedback-from-employees/)
+- [DEV.to: What do you talk about during your one-on-one meetings with your engineering (or other) manager? ](https://dev.to/alainakafkes/what-do-you-talk-about-during-your-one-on-one-meetings-with-your-engineering-or-other-manager-e7d)
+- [The Ultimate 1-on-1 Meeting Questions Template](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
 
 ## A few books
 - [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
