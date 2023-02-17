@@ -58,6 +58,7 @@ _aka "getting started"_
 - [How to have effective 1:1s](https://www.radicalcandor.com/blog/effective-one-on-ones/)
 - [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)
 - [An example one-on-one meeting agenda](https://github.com/ajahne/essential-manager-meetings/blob/master/templates/one-on-one-meeting-agenda.md)
+- [1:1 resources for Managers by Lara Hogan](https://larahogan.me/resources/one-on-ones/)
 
 ## For Makers
 - [7 ways to prepare for an effective one-on-one meeting with your manager](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
