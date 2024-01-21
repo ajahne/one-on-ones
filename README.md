@@ -27,7 +27,7 @@ Let's roll!
 
 ## My Recommendations  
 _aka "getting started"_
-- [Questions for our First 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
+- [Questions for Our First 1-1](https://ajahne.github.io/blog/leadership/management/2023/09/22/questions-for-our-first-one-on-one.html)
 - One-on-one meeting [Dos](https://ajahne.github.io/blog/leadership/2018/09/29/one-on-one-meeting-dos-and-donts-part1.html) and [Don'ts](https://ajahne.github.io/blog/leadership/2018/10/08/one-on-one-meeting-dos-and-donts-part2.html)
 - [7 ways to prepare for an effective one-on-one meeting with your manager](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 - [How to have great one-on-ones](https://getlighthouse.com/blog/high-output-management/)
